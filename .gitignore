@@ -3,12 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environments
-.env
-.venv
-env/
-venv/
-ENV/
+myvenv/
 
 # Data files
 *.csv
@@ -22,13 +17,3 @@ ENV/
 excel_to_csv_output/
 output/
 results/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo 
