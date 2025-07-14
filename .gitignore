@@ -17,3 +17,8 @@ myvenv/
 excel_to_csv_output/
 output/
 results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
