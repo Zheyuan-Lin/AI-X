@@ -16,7 +16,6 @@ myvenv/
 *.xlsx
 *.xls
 *.json
-*.txt
 *.log
 
 # Output directories
@@ -33,3 +32,4 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
